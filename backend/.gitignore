@@ -1,0 +1,14 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/generated/prisma
+# macOS system files
+.DS_Store
+backend/.DS_Store
+
+# Node modules
+node_modules/
+
+# Env files
+.env
